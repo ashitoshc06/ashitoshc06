@@ -1,48 +1,75 @@
+
 <div align="center">
 
-Hi, I'm Ashitosh Chavan 👋
-QA Engineer | Software Testing | API Testing | Automation Testing
-Focused on software quality, reliable testing, and continuous learning.
+# Hi, I'm Ashitosh Chavan 👋
+
+### QA Engineer | Software Test Engineer
+
+**Manual Testing • API Testing • Selenium Automation**
+
+Focused on software quality, defect identification, and reliable application testing.
+
+[GitHub](https://github.com/ashitoshc06) · Banking & FinTech QA · Continuous Learning
+
 </div>
 
-👨‍💻 About Me
-I am a Software Test Engineer focused on validating application functionality, testing REST APIs, identifying defects, and strengthening my automation testing skills.
+---
 
-My interests include web application testing and Banking/FinTech workflows, with an emphasis on clear test scenarios, evidence-based defect reporting, and dependable software behavior.
-- 🔍 Testing: Manual Testing, Functional Testing, Regression Testing, STLC, SDLC
-- 🔗 API Testing: Postman, REST APIs, Swagger
-- 🤖 Automation: Java, Selenium WebDriver, TestNG, Maven
-- 🗄️ Database: SQL, queries, and joins
-- 🛠️ Tools: JIRA, Git, GitHub, IntelliJ IDEA
-- 🏦 Domain Interest: Banking and FinTech workflows
-🧰 Technical Skills
-Area	Skills
-Testing	Manual, Functional, Regression, Positive/Negative Scenario Testing
-API Testing	Postman, REST APIs, Swagger, Request/Response Validation
-Automation	Java, Selenium WebDriver, TestNG, Maven
-Database	SQL, Queries, Joins
-Workflow & Tools	JIRA, Git, GitHub, IntelliJ IDEA
-Testing Practices	Test Case Design, Defect Reporting, STLC, SDLC
+## 👨‍💻 About Me
 
+I am a Software Test Engineer focused on application testing, REST API validation, defect reporting, and developing automation testing skills.
 
-🚀 Projects & Practical Work
-API Testing
-Practice and project work involving API requests, response/status-code validation, positive and negative scenarios, and defect documentation.
-Selenium Automation
-Practical automation work using Java, Selenium WebDriver, TestNG, and Maven.
-Banking / FinTech Testing
-Testing-focused work related to banking workflows, transaction scenarios, role-based access, and application behavior.
-Add links to your actual public repositories in this section when they are ready to share. Only list work and tools you have genuinely used.
+- 🔍 Manual, Functional & Regression Testing
+- 🔗 API Testing with Postman and Swagger
+- 🤖 Java, Selenium WebDriver, TestNG & Maven
+- 🗄️ SQL Queries and Joins
+- 🛠️ JIRA, Git, GitHub & IntelliJ IDEA
+- 🏦 Interest in Banking and FinTech workflows
 
-🎯 Current Learning Focus
-- Improving Java and Selenium automation skills
-- Practicing API testing and response validation
-- Designing clear, reusable test scenarios
-- Improving test documentation and defect reporting
-🤝 Connect With Me
-- GitHub: @ashitoshc06
-- LinkedIn: Add your direct public LinkedIn profile URL here
+## 🧰 Technical Skills
+
+| Category | Technologies & Skills |
+|---|---|
+| Testing | Manual, Functional, Regression Testing |
+| API Testing | Postman, REST APIs, Swagger |
+| Automation | Java, Selenium WebDriver, TestNG, Maven |
+| Database | SQL, Queries, Joins |
+| Tools | JIRA, Git, GitHub, IntelliJ IDEA |
+| QA Practices | Test Cases, Defect Reporting, STLC, SDLC |
+
+## 🚀 Projects & Practical Work
+
+### 🔗 API Testing
+- API request and response validation
+- Positive and negative test scenarios
+- Status-code verification and defect documentation
+
+### 🤖 Selenium Automation
+- Java and Selenium WebDriver practice
+- TestNG and Maven-based automation learning
+
+### 🏦 Banking & FinTech Testing
+- Banking workflow and transaction scenario testing
+- Role-based access and application validation
+
+*Add links to your actual public project repositories when available.*
+
+## 🎯 Current Learning Goals
+
+- Improve Java and Selenium automation skills
+- Strengthen API testing techniques
+- Create reusable test scenarios
+- Improve test documentation and reporting
+
+## 🤝 Connect With Me
+
+- **GitHub:** [ashitoshc06](https://github.com/ashitoshc06)
+- **LinkedIn:** Add your direct LinkedIn profile URL here
+
+---
+
 <div align="center">
 
-Quality is built through careful testing, clear communication, and continuous improvement.
+*Quality through careful testing, clear communication, and continuous improvement.*
+
 </div>
